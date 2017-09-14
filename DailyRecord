@@ -11,6 +11,27 @@
 2017.09.04-06
   学习MVP模式、MVVM框架、应用架构Room，RxJava库
 2017.09.07-08
-  学习Retrofit
+  学习Retrofit,【Android】Realm详解 http://www.jianshu.com/p/37af717761cc
 2017.09.12-13
   初步了解Dagger2,夜间模式设置,Toolbar+DrawerLayout+NavigationView,大概了解Material Design、RecyclerView,CardView,Palette
+2017.09.14
+  Java里的堆(heap)栈(stack)和方法区(method) http://www.cnblogs.com/kkcheng/archive/2011/02/25/1964521.html
+  简单的java代码在内存加载过程（详解）http://blog.csdn.net/zzrdark_/article/details/51704451
+  java代码在内存后续（static）
+  java代码在内存后续（构造器，子类父类）
+  Java虚拟机工作原理详解 http://blog.csdn.net/bingduanlbd/article/details/8363734
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
