@@ -23,7 +23,7 @@
 2017.09.15
   了解Glide,代码混淆,了解Android主流IOC框架浅析 JAVA注解反射原理 猫扑素数
 2017.09.19-20
-  学习Message,MessageQueue,Looper,Handler源码 TODO:Native层代码
+  学习Message,MessageQueue,Looper,Handler源码 TODO:Native层代码？
 2017.09.21
   java 对象锁 http://www.importnew.com/20444.html
   ReentrantLock Atomic http://blog.csdn.net/ymeng_bupt/article/details/6826936
@@ -35,8 +35,14 @@
   java多线程之指令重排序 
   Java内存模型 http://www.cnblogs.com/zhengbin/p/6407137.html
   Java并发编程：CountDownLatch、CyclicBarrier和Semaphore http://www.cnblogs.com/dolphin0520/p/3920397.html
+  并发新特性—信号量Semaphore？
+  Java并发BlockingQueue？
+  守护线程与线程阻塞的四种情况 http://blog.csdn.net/ns_code/article/details/17099981
+  Java并发编程系列 http://blog.csdn.net/column/details/concurrency.html?&page=1
+  java8,9新特性？
+  Java并发的四种风味：Thread、Executor、ForkJoin和Actor？？？
   
-  TODO:Android Binder机制原理
+  TODO:Android Binder机制原理？
   
   
   
