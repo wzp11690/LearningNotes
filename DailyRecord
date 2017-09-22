@@ -43,8 +43,11 @@
   Java并发的四种风味：Thread、Executor、ForkJoin和Actor？？？
   
   TODO:Android Binder机制原理？
-  
-  
+2017.09.22
+  android-浅谈DVM与JVM的区别   http://blog.csdn.net/wangyueyishi/article/details/50783464
+  Art和Dalvik的区别
+  Activity启动过程 http://www.cnblogs.com/younghao/p/5126408.html http://www.cnblogs.com/tiantianbyconan/p/5017056.html
+  TODO：Activity（三）栈管理 http://www.jianshu.com/p/dbea4645cbc7
   
   
   
