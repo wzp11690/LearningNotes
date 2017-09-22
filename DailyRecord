@@ -23,7 +23,7 @@
 2017.09.15
   了解Glide,代码混淆,了解Android主流IOC框架浅析 JAVA注解反射原理 猫扑素数
 2017.09.19-20
-  学习Message,MessageQueue,Looper,Handler源码 TODO:Native层代码？
+  学习Message,MessageQueue,Looper,Handler源码 TODO:Native层代码？？？
 2017.09.21
   java 对象锁 http://www.importnew.com/20444.html
   ReentrantLock Atomic http://blog.csdn.net/ymeng_bupt/article/details/6826936
@@ -42,12 +42,12 @@
   java8,9新特性？
   Java并发的四种风味：Thread、Executor、ForkJoin和Actor？？？
   
-  TODO:Android Binder机制原理？
+  TODO:Android Binder机制原理？？？
 2017.09.22
   android-浅谈DVM与JVM的区别   http://blog.csdn.net/wangyueyishi/article/details/50783464
   Art和Dalvik的区别
   Activity启动过程 http://www.cnblogs.com/younghao/p/5126408.html http://www.cnblogs.com/tiantianbyconan/p/5017056.html
-  TODO：Activity（三）栈管理 http://www.jianshu.com/p/dbea4645cbc7
+  TODO：Activity（三）栈管理？？？ http://www.jianshu.com/p/dbea4645cbc7
   
   
   
